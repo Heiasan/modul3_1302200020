@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\tpmodul3_1302200020\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020.csproj": {}
+    "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020.csproj": {}
   },
   "projects": {
-    "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\tpmodul3_1302200020\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020.csproj": {
+    "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\tpmodul3_1302200020\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020.csproj",
+        "projectUniqueName": "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020.csproj",
         "projectName": "modul3_1302200020",
-        "projectPath": "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\tpmodul3_1302200020\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020.csproj",
+        "projectPath": "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020.csproj",
         "packagesPath": "C:\\Users\\Heiasan\\.nuget\\packages\\",
-        "outputPath": "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\tpmodul3_1302200020\\modul3_1302200020\\modul3_1302200020\\obj\\",
+        "outputPath": "D:\\00_File Kampus\\S4\\KPL\\PRAKTIKUM\\TP KPL\\modul3_1302200020\\modul3_1302200020\\modul3_1302200020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Heiasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
